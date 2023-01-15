@@ -14,4 +14,4 @@ jobs:
       - name: It is
         run: date
       - name: Content
-        run: ls
+        run: ls -l
